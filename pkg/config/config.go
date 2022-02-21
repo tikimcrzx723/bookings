@@ -7,6 +7,7 @@ import (
 	"github.com/alexedwards/scs/v2"
 )
 
+// Tests
 // AppConfig holds the app application config
 type AppConfig struct {
 	UseCache      bool
